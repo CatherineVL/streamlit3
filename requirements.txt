@@ -1,5 +1,7 @@
+streamlit_authenticator
 streamlit
 pandas
-streamlit_authenticator
+seaborn
+plotly
+matplotlib
 streamlit_option_menu
-yaml
